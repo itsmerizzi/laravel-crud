@@ -32,8 +32,8 @@ To run the project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/itsmerizzi/laravel-crud
+   cd laravel-crud
    ```
 
 2. Install Laravel dependencies:
